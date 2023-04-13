@@ -1,0 +1,499 @@
+#header.kepala{
+  margin-top:auto;
+  margin-bottom:auto;
+  margin-left:0px;
+  margin-right:0px;
+  width:100%;
+  height:100%;
+  background-image:url(../../assets/img/header.jpg);
+  background-size:cover;
+}
+
+#menu.nav.nav-tabs{
+  font-size:large;
+  background-color:#b63d32;
+  border-bottom-right-radius:10px;
+  border-bottom-left-radius:10px;
+}
+
+.head{
+  text-align:center;
+  font-weight:bold;
+  margin-top:10px;
+  background-color:rgba(255,255,255,0.50);
+  padding-bottom:10px;
+  margin-bottom:0px;
+}
+
+.paragraphead{
+  background-color:rgba(255,255,255,0.50);
+  text-align:center;
+  font-size:14pt;
+  font-weight:500;
+  margin-bottom:0;
+}
+
+.paragraphead2{
+  background-color:rgba(255,255,255,0.50);
+  text-align:center;
+  font-weight:500;
+  font-size:14pt;
+  padding-bottom:20px;
+  margin-bottom:0px;
+}
+
+#logo.logo{
+  max-width:180px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+#konten.container.sampule{
+  background-color:rgba(255,255,255,0.65);
+  padding-left:0px;
+  padding-right:0px;
+}
+
+.navbar.navbar-default.nav-diatur{
+  font-size:large;
+  margin-bottom:0;
+  background-color:#b63d32;
+
+}
+
+#logonav{
+  height:48px;
+  float:left;
+  margin-top:-10px;
+  margin-right:3px;
+}
+
+
+p#profil.paragrap{
+  font-size:14px;
+  margin-top:-260px;
+  margin-left:45%;
+  padding-left:5px;
+  text-align:justify;
+}
+
+.container.isine{
+  padding-top:10px;
+  margin-bottom:20px;
+  padding-bottom:0px;
+}
+
+img.gb-profil{
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top:20px;
+  width: 600px;
+  max-height:350px; 
+  display:block;
+}
+
+h1#profil.text-center{
+  background-color:#ecf0f1;
+  border-radius:7px;
+}
+
+div.bacgroundvisi{
+  background-color:#b63d32;
+  padding-top:10px;
+  padding-bottom:20px;
+}
+
+div.container.warnavisi{
+  background-color:rgba(255,255,255,0.50);
+  margin-top:10px;
+  padding-top:10px;
+  border-radius:20px;
+}
+
+.text-center.warnatitlevisi{
+  background-color:#ecf0f1;
+  border-radius:7px;
+}
+
+p.VisMis{
+  font-size:large;
+}
+
+p.VisMis.jarakVis{
+  margin-bottom:0px;
+}
+
+p.VisMis.jarakMis{
+  margin-bottom:20px;
+}
+
+h1.text-center.backgroundBerita{
+  background-color:#ecf0f1;
+  border-radius:7px;
+}
+
+#logofoot{
+  height:48px;
+  float:left;
+  margin-top:8px;
+  margin-right:3px;
+}
+
+.backgroundcontact{
+  background-color: #b63d32;
+}
+
+#AkuAdalah p{
+  max-width:800px;
+  font-size:20px;
+  margin:0 auto;
+  margin-bottom: 20px;
+}
+
+.contact{
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.h1-back{
+  background-color: #ecf0f1;
+  margin-right: 0;
+  padding-right: 20px;
+  border-radius: 7px;
+}
+
+/* Home PPDB */
+.btn.btn-default.buttDaftar{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  font-size:25pt;
+  background-color:#00fe0a;
+  color:red;
+  border-radius:10px;
+}
+
+button.btn.btn-default.buttDaftar.btn-info:hover{
+  -webkit-transform:scale(1.3);
+  transform:scale(1.3);
+  background:red;
+  color:white;
+}
+
+p.text-center.pWelcome{
+  margin-bottom:0;
+}
+
+p.text-center.pWelcome.ukuran{
+  font-size:16pt;
+}
+
+p.text-center.pTahunAjar{
+  font-size:14pt;
+}
+
+p.text-center.pDaftar{
+  margin-bottom:0;
+  font-size:16pt;
+}
+
+p.text-center.pTgl{
+  font-size:14pt;
+  color:red;
+}
+
+p.text-center.pKeterangan{
+  font-size:12pt;
+  padding-bottom:5px;
+}
+
+p.text-center.pDaftarOffline{
+  font-size:14pt;
+  margin-bottom:0;
+}
+
+p.text-center.pKetOffline{
+  font-size:13pt;
+}
+
+h2.text-center.Hshadow{
+  padding-bottom:3px;
+  box-shadow:-1px 3px 8px;
+}
+
+p.Psyarat{
+  margin-left:30%;
+  padding-left:20px;
+  font-size:large;
+}
+
+.marque {
+    background-color: #c1c1c1;
+    color: red;
+    font-family: arial;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+/*Form Pendaftaran */
+
+.container.backform{
+  background-color: #eaeee7;
+  padding-right: 20px;
+  margin-left: -15px; 
+  border-radius: 20px;
+}
+
+.container-fluid.backform{
+  background-color: #eaeee7;
+  padding-right: 10px;
+  margin-left: 0px;
+  border-radius: 20px;
+  margin-top: 5px;
+}
+.pCara{
+  padding-bottom: 5px;
+}
+
+/* Pengumuman */
+
+.pPengumuman{
+  font-size: 14pt;
+  text-align: justify;
+}
+
+.text-center.pDwnPengumuman{
+  font-size: 16pt;
+  color: red;
+  padding-bottom: 5px;
+}
+
+.btn.btn-default.buttPengumuman{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  font-size:20pt;
+  background-color:#2780e3;
+  color:#fff;
+  border-radius:10px;
+}
+
+button.btn.btn-default.buttPengumuman.btn-info:hover{
+  -webkit-transform:scale(1.2);
+  transform:scale(1.2);
+  background:#18a15f;
+  color:white;
+}
+
+/*KONTAK PANITIA */
+
+.pKontakPani{
+  font-size: 14pt;
+}
+
+.pKontakPani.setJudul{
+  margin: 5px;
+  padding-bottom: 15px;
+}
+
+.pKontakPani.kontak1{
+  padding: 0;
+  margin: 0;
+}
+
+.pKontakPani.kontak2.{
+  margin: 0;
+  padding-bottom: 15px;
+}
+
+.pKontakPani.alamat1{
+  padding: 0;
+  margin: 0;
+}
+
+.pKontakPani.alamat2.{
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+/*Form Login */
+
+img.iconAdmin{
+  margin-top: 10px;
+  float:left;
+  width:120px;
+}
+
+img.iconSiswa{
+  margin-top: 20px;
+  float:left;
+  width:120px;
+}
+
+.setLogin{
+  margin: 10px;
+  padding-top: 10px;
+}
+
+.btn.btn-default.buttLog{
+  font-size:18pt;
+  background-color:#428bca;
+  border-radius:8px;
+}
+
+button.btn.btn-default.buttLog:hover{
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);
+  background:#4c5256;
+}
+
+.settLogPet{
+  margin-top: 15px;
+  padding-bottom:25px;
+  padding-left: 20%;
+}
+
+.settLogSis{
+  margin-top: 15px;
+  padding-bottom:25px;
+  padding-left: 20%;
+}
+
+.Hovetsis:hover{
+  color: #4c5256;
+}
+
+ .LogHome{
+  background-color: #ecf0f1;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+ }
+
+/*Login Pop Up */
+
+.btn.btn-primary.buttonLog{
+  margin-left: 35%;
+  float: left;
+  background-color: #428bca;
+  color: #fff;
+}
+
+.btn.btn-primary.buttonLog:hover{
+-webkit-transform:scale(1.1);
+  transform:scale(1.1);
+  background-color: #00569f;
+}
+
+.btn.btn-default.buttonBatt{
+  margin-left: 10px;
+  float: left;
+  background-color: #dd5347;
+  color: #fff;
+}
+
+.btn.btn-default.buttonBatt:hover{
+-webkit-transform:scale(1.1);
+  transform:scale(1.1);
+  background-color: #91302c;
+}
+
+.modal-header.warnaHead{
+  border-radius: 7px;
+  background-color: #ecf0f1;
+}
+
+.text-center.ukur{
+  margin: 5px;
+  padding-bottom: 10px;
+}
+
+.error{
+  color: red;
+}
+
+.labelfrm {
+      display:block;
+      font-size:small;
+      margin-top:5px;
+    }
+
+/* Home Siswa */
+
+.container.backformSiswa{
+  background-color: rgba(255,255,255,0.90);
+  padding-right: 20px;
+  margin-left: -15px;
+  border-radius: 20px;
+}
+
+.btn.btn-default.butEdit{
+  background-color: red;
+  font-size: 14pt;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+.pTerimakasih{
+  font-size: 14pt;
+}
+
+.MenuSis{
+  text-align: center;
+  background-color: #65cfff;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.btn.btn-default.butMn{
+  background-color: #575757;
+  color: #fff;
+  font-size: 14pt;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+.btn.btn-default.butMn:hover{
+-webkit-transform:scale(1.1);
+  transform:scale(1.1);
+  background-color: #01559e;
+  color: #fff;
+}
+
+.ukurMen{
+  margin-bottom: 20px;
+}
+
+/*Form View Data */
+#table-a
+{   font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;
+    width: 1100px;
+    text-align: left;
+    font-size: 12pt;
+    border-collapse: collapse;
+}
+#table-a th
+{   font-size: 13px;
+    font-weight: normal;
+    padding: 8px;
+    background: #b9c9fe;
+    border-top: 4px solid #aabcfe;
+    border-bottom: 1px solid #fff;
+    color: #039;
+}
+#table-a td
+{   padding: 8px;
+    background: #e8edff;
+    border-bottom: 1px solid #fff;
+    color: #669;
+    border-top: 1px solid transparent;
+}
+#table-a tr:hover td
+{   background: #d0dafd;
+    color: #339;
+}

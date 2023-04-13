@@ -1,0 +1,29 @@
+@media screen and (max-width: 960px){
+	.conteudo{
+		float: inherit;
+		margin: 0 auto 10px;
+		width: 101%;
+		border: 1px solid #dedede;
+		padding: 5%;
+		background: #fff;
+	}
+	.conteudo img{
+		max-width: 110%;
+		margin: 0 0 25px -5%;
+		min-width: 110%;
+	}
+	.conteudo .continue-lendo:hover{
+		margin-left: 0;
+	}
+}
+
+@media screen and (max-width: 460px){
+
+	}
+	.conteudo{
+		margin: 25px auto;
+	}
+	.conteudo img{
+		margin: -5% 0 25px -5%;
+	}
+}
